@@ -10,5 +10,8 @@ The javascript sheet is available under /assets/script/script.js
 The primary HTML document is available under index.html.
 A .gitignore file was included as well under the root.
 
+## Link to Site
+https://bertisjoey.github.io/Password-Creator/
+
 ## Screenshot of Site
 ![Screenshot of Password Generator](./assets/screenshot-password-generator.png)
