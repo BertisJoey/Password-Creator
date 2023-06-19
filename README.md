@@ -11,3 +11,4 @@ The primary HTML document is available under index.html.
 A .gitignore file was included as well under the root.
 
 ## Screenshot of Site
+![Screenshot of Password Generator](./assets/screenshot-password-generator.png)
